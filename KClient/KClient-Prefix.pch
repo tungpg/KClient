@@ -5,3 +5,5 @@
 #ifdef __OBJC__
     #import <Foundation/Foundation.h>
 #endif
+
+#define KSERVER_KOBJECT_URL @"http://kweb.localhost/api/kObject"
