@@ -7,7 +7,6 @@
 //
 
 #import "KQuery.h"
-#import "ASIFormDataRequest.h"
 
 @implementation KQuery
 @synthesize className = _className;
