@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'KClient' target in the 'KClient' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

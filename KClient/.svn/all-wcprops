@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/kcloud/!svn/ver/2/trunk/iOS/KClient/KClient
+END
+KClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcloud/!svn/ver/2/trunk/iOS/KClient/KClient/KClient.h
+END
+KClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kcloud/!svn/ver/2/trunk/iOS/KClient/KClient/KClient.m
+END
+KClient-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kcloud/!svn/ver/2/trunk/iOS/KClient/KClient/KClient-Prefix.pch
+END
